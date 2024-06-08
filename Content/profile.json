@@ -1,17 +1,17 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Tracy Mai",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, My name is Tracy Mai. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "EMail": "tracytmai@outlook.com",
+  "Phone": "(206) 586-9873",
+  "Portfolio": "https://www.github.com/tracyymaii",
+  "LinkedIn": "https://linkedin.com/in/tracy-mai-/",
+  "GitHub": "https://www.github.com/tracyymaii"
 },
 "Experience": {
   "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
@@ -27,16 +27,16 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "System Proposal - ADA-Friendly Navigation App",
+    "Desc": "My System Proposal is for a navigation app to help physically disabled people traverse through the world.<br><br>It is just a document with some pictures shown in the screenshots.",
+    "GitHubRepo": "https://drive.google.com/file/d/1evlZUawbPv3vi6PcfcAedQafb8yC8l6j/view",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Title": "System Specification - ADA-Friendly Navigation App",
+    "Desc": "This is specification to help developers with builing the ADAFNA.<br><br>Attached is a link to the document to show more details than the photos.",
+    "GitHubRepo": "https://drive.google.com/file/d/18d5_EjWLTrofqOiqL5PHKTROvS_U-srA/view",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },

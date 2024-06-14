@@ -4,27 +4,27 @@
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, My name is Tracy Mai. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, My name is Tracy Mai. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond computer science, I actively engage in extracurricular activites related to my other passions in life such as Pup Support, a mental health organization focused on providing resources for college students. I also believe in continuous learning with the forever growing world of technology."
 },
 "Contact": {
   "EMail": "tracytmai@outlook.com",
-  "Phone": "(206) 586-9873",
+  "Phone": "",
   "Portfolio": "https://www.github.com/tracyymaii",
   "LinkedIn": "https://linkedin.com/in/tracy-mai-/",
   "GitHub": "https://www.github.com/tracyymaii"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "Ever since university, I have been creating projects, each one teaching me new skills. Writing new programs and creating things just from typing is one of the greatest joys in my life. I want to continue onto to work in AI bias, to ensure that AI correctly solves human needs without overstepping its boundaries.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Graduation": "June 2024",
+  "EducationText": "Alongside my major, I am also minoring in Philosophy. Using a human-first perspective, I want to ensure that AI is used and created responsibly in the quick growing world of technology. ",
+  "Employment": "Ellipsis Academy",
+  "Role": "FlexMath Coach",
+  "EmploymentText": "- Educates 12 students 6 hours per week to become innovative problem solvers and critical thinkers through private math sessions for 7-12 year olds upwards to ALgebra 2 whilst accomodating to each students' pace <br><br> - Maintains transparent parent communication through weekly emails, providing students' progress and addressing inquiries",
+  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", " Java", " Python", " SQLite", " Qt Creator"],
+  "SkillsText": "In addition to my current skills, I am also getting certified with Microsoft's AI program.",
+  "Resume": "Tracy_Mai_Resume-SPU.pdf"  
 },
 "Project1": {
     "Title": "System Proposal - ADA-Friendly Navigation App",

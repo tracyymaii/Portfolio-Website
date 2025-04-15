@@ -1,10 +1,10 @@
 {
 "About": {
   "Name": "Tracy Mai",
-  "Currently": "Computer Science Student",
+  "Currently": "Computer Science Student <br>Graduation Date: June 2025",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, My name is Tracy Mai. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond computer science, I actively engage in extracurricular activites related to my other passions in life such as Pup Support, a mental health organization focused on providing resources for college students. I also believe in continuous learning with the forever growing world of technology."
+  "AboutText": "Hi, My name is Tracy Mai. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond computer science, I actively engage in extracurricular activites related to my other passions in life such as Pup Support, a mental health organization focused on providing resources for college students. I also believe in continuous learning with the forever growing world of technology. <br><br>With the rapid advancements in artificial intelligence and technology, I am incredibly fortunate to have the opportunity to combine both of my passions in meaningful and impactful ways. I aim to bridge the gap between technology and human problems -- understanding people first, and building technological solutions that align with human capabilities and needs. Ultimately, I aim to specialize in machine alignment and ethical bias. Through my drive for computer science and artificial intelligence, I have completed Microsoft’s Azure AI Fundamentals, and am currently studying to become certified in Microsoft’s Azure AI Engineer."
 },
 "Contact": {
   "EMail": "tracytmai@outlook.com",
@@ -21,10 +21,16 @@
   "EducationText": "Alongside my major, I am also minoring in Philosophy. Using a human-first perspective, I want to ensure that AI is used and created responsibly in the quick growing world of technology. ",
   "Employment": "Ellipsis Academy",
   "Role": "FlexMath Coach",
-  "EmploymentText": "- Educates 12 students 6 hours per week to become innovative problem solvers and critical thinkers through private math sessions for 7-12 year olds upwards to ALgebra 2 whilst accomodating to each students' pace <br><br> - Maintains transparent parent communication through weekly emails, providing students' progress and addressing inquiries",
+  "EmploymentText": "- Educates 12 students 6 hours per week to become innovative problem solvers and critical thinkers through private math sessions for 7-12 year olds upwards to Algebra 2 whilst accomodating to each students' pace <br>- Maintains transparent parent communication through weekly emails, providing students' progress and addressing inquiries <br><br>",
+  "CertificationName": "Microsoft Azure AI Fundamentals (Completed)",
+  "CertificationText": "- Earned certification validating core understanding of AI and machine learning principles, including natural language processing, computer vision, and responsible AI.<br>- Gained hands-on familiarity with Microsoft Azure tools such as Cognitive Services, Azure Machine Learning, and conversational AI solutions.<br>- Demonstrated ability to identify appropriate Azure AI services to support business goals, with a focus on ethical and effective AI implementation.<br><br>",
+  "CertificationName2": "Microsoft Azure AI Engineer (In-Progress)",
+  "CertificationText2": "- Currently pursuing certification to deepen knowledge of AI solutions and their implementation on Microsoft Azure.<br>- Focused on developing skills in designing and implementing AI solutions, including natural language processing, computer vision, and conversational AI.<br>- Aiming to enhance understanding of responsible AI practices and ethical considerations in AI development.",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", " Java", " Python", " SQLite", " Qt Creator"],
   "SkillsText": "In addition to my current skills, I am also getting certified with Microsoft's AI program.",
   "Resume": "Tracy_Mai_Resume-SPU.pdf"  
+
+
 },
 "Project1": {
     "Title": "System Proposal - ADA-Friendly Navigation App",

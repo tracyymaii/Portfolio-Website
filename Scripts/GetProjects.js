@@ -82,6 +82,22 @@ function updateHTML(configData) {
   } else {
     document.querySelector("#project4").style.display = "none";
   }
+
+  projectTitle = configData.Project5.Title;
+  if (projectTitle) {
+    document.querySelector("#pfProject5Img").src = "Content/".concat(configData.Project5.MainImage);
+    document.querySelector("#pfProject5Title").innerHTML = projectTitle;
+    document.querySelector("#pfProject5Desc").innerHTML = configData.Project5.Desc;
+    document.querySelector("#pfProject5Repo").href = configData.Project5.GitHubRepo;
+    if (!configData.Project5.GitHubRepo) {
+      document.querySelector("#pfProject5Repo").style.display = "none";
+    }
+    if (configData.Project5.DetailImages.length<1) {
+      document.querySelector("#open").style.display = "none";
+    }
+  } else {
+    document.querySelector("#project5").style.display = "none";
+  }
 }
 
 function addImages(imgs) {
@@ -137,6 +153,18 @@ document.querySelector("#openProject2").onclick = () => {
 
 document.querySelector("#openProject3").onclick = () => {
   addImages(configData.Project3.DetailImages);
+  document.querySelector("#modalPage").style.display = "block";
+  showImages(slideIdx);
+}
+
+document.querySelector("#openProject4").onclick = () => {
+  addImages(configData.Project4.DetailImages);
+  document.querySelector("#modalPage").style.display = "block";
+  showImages(slideIdx);
+}
+
+document.querySelector("#openProject5").onclick = () => {
+  addImages(configData.Project5.DetailImages);
   document.querySelector("#modalPage").style.display = "block";
   showImages(slideIdx);
 }

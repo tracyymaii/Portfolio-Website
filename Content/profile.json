@@ -1,0 +1,57 @@
+{
+"About": {
+  "Name": "Tracy Mai",
+  "Currently": "Computer Science Student",
+  "Headshot": "student-portrait.png",
+  "Thumbnail": "student-portrait.png",
+  "AboutText": "Hi, My name is Tracy Mai. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond computer science, I actively engage in extracurricular activites related to my other passions in life such as Pup Support, a mental health organization focused on providing resources for college students. I also believe in continuous learning with the forever growing world of technology."
+},
+"Contact": {
+  "Email": "tracytmai@outlook.com",
+  "Phone": "",
+  "Portfolio": "https://www.github.com/tracyymaii",
+  "LinkedIn": "https://linkedin.com/in/tracy-mai-/",
+  "GitHub": "https://www.github.com/tracyymaii"
+},
+"Experience": {
+  "ExperienceText": "Ever since university, I have been creating projects, each one teaching me new skills. Writing new programs and creating things just from typing is one of the greatest joys in my life. I want to continue onto to work in AI bias, to ensure that AI correctly solves human needs without overstepping its boundaries.",
+  "School": "Seattle Pacific University",
+  "Major": "Computer Science",
+  "Graduation": "June 2024",
+  "EducationText": "Alongside my major, I am also minoring in Philosophy. Using a human-first perspective, I want to ensure that AI is used and created responsibly in the quick growing world of technology. ",
+  "Employment": "Ellipsis Academy",
+  "Role": "FlexMath Coach",
+  "EmploymentText": "- Educates 12 students 6 hours per week to become innovative problem solvers and critical thinkers through private math sessions for 7-12 year olds upwards to ALgebra 2 whilst accomodating to each students' pace <br><br> - Maintains transparent parent communication through weekly emails, providing students' progress and addressing inquiries",
+  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", " Java", " Python", " SQLite", " Qt Creator"],
+  "SkillsText": "In addition to my current skills, I am also getting certified with Microsoft's AI program.",
+  "Resume": "Tracy_Mai_Resume-SPU.pdf"  
+},
+"Project1": {
+    "Title": "System Proposal - ADA-Friendly Navigation App",
+    "Desc": "My System Proposal is for a navigation app to help physically disabled people traverse through the world.<br><br>It is just a document with some pictures shown in the screenshots.",
+    "GitHubRepo": "https://drive.google.com/file/d/1evlZUawbPv3vi6PcfcAedQafb8yC8l6j/view",
+    "MainImage": "P1Main.png",
+    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+  },
+  "Project2": {
+    "Title": "System Specification - ADA-Friendly Navigation App",
+    "Desc": "This is specification to help developers with builing the ADAFNA.<br><br>Attached is a link to the document to show more details than the photos.",
+    "GitHubRepo": "https://drive.google.com/file/d/18d5_EjWLTrofqOiqL5PHKTROvS_U-srA/view",
+    "MainImage": "P2Main.png",
+    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+  },
+  "Project3": {
+    "Title": "Interesting Project 3",
+    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "GitHubRepo": "",
+    "MainImage": "P3Main.png",
+    "DetailImages": []
+  },
+  "Project4": {
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
+  }
+}

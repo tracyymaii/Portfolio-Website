@@ -18,8 +18,8 @@ function updateHTML(configData) {
   document.querySelector("#pfAboutName").innerHTML = configData.About.Name;
   document.querySelector("#pfAboutTitle").innerHTML = configData.About.Currently;
   document.querySelector("#pfAboutDesc").innerHTML = configData.About.AboutText;
-  document.querySelector("#pfEmail").href = "mailto:".concat(configData.Contact.EMail);
-  document.querySelector("#pfEmail").innerHTML = configData.Contact.EMail;
+  document.querySelector("#pfEmail").href = "mailto:".concat(configData.Contact.Email);
+  document.querySelector("#pfEmail").innerHTML = configData.Contact.Email;
   if (configData.Contact.Phone) {
     document.querySelector("#pfPhone").href = "tel:".concat(configData.Contact.Phone);
     document.querySelector("#pfPhone").innerHTML = configData.Contact.Phone;

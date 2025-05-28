@@ -23,33 +23,36 @@
   "Role": "FlexMath Coach",
   "EmploymentText": "- Educates 12 students 6 hours per week to become innovative problem solvers and critical thinkers through private math sessions for 7-12 year olds upwards to ALgebra 2 whilst accomodating to each students' pace <br><br> - Maintains transparent parent communication through weekly emails, providing students' progress and addressing inquiries",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", " Java", " Python", " SQLite", " Qt Creator"],
-  "SkillsText": "In addition to my current skills, I am also getting certified with Microsoft's AI program.",
-  "Resume": "Tracy_Mai_Resume-SPU.pdf"  
+  "SkillsText": "",
+  "Resume": "Tracy_Mai_Resume-SPU.pdf",
+  "Certs": "Certification",
+  "CertsText" : " Microsoft Certified: Azure AI Fundamentals (Completed) <br><br>Microsoft Certified: Azure AI Engineer (In-Progress)"  
+
 },
 "Project1": {
     "Title": "Water Tracker - A Computer Application and Pet to Help Meet Hydration Goals",
-    "Desc": "Users will meet their hydration goals by taking care of the pet. The more water they drink the more the pet will be happy. <br><br> This team consisted of 3 members and I worked as a full stack software developer.",
+    "Desc": "Users will meet their hydration goals by taking care of the pet. The more water they drink the more the pet will be happy. <br><br> This team consisted of 3 members and I worked as a full stack software developer.<br><br>This project was completed in CSC3220 from January 2024 to March 2024.",
     "GitHubRepo": "https://github.com/tracyymaii/Water_Tracker_Computer_App",
     "MainImage": "P1Detail1.png",
     "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png", "P1Detail4.png"]
   },
   "Project2": {
     "Title": "System Specification - ADA-Friendly Navigation App",
-    "Desc": "This navigation app is intended to help physically disabled people traverse through the world.<br><br>This is specification to help developers with building the ADAFNA.",
+    "Desc": "This navigation app is intended to help physically disabled people traverse through the world.<br><br>This is specification to help developers with building the ADAFNA.<br><br>This project was completed in CSC4898 from March 2024 to June 2024.",
     "GitHubRepo": "https://drive.google.com/file/d/18d5_EjWLTrofqOiqL5PHKTROvS_U-srA/view",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "SEEN - A Bi-Directional American Sign Language APP",
-    "Desc": "This app was developed with a team of 5, with the goal of bridging the communication gap between deaf and hearing communities.<br><br>SEEN received the Top Oral Presentation Award at Seattle Pacific University's 2025 Erickson Conference. <br><br>I worked as the scrum master and software developer.",
+    "Desc": "This app was developed with a team of 5, with the goal of bridging the communication gap between deaf and hearing communities.<br><br>SEEN received the Top Oral Presentation Award at Seattle Pacific University's 2025 Erickson Conference. <br><br>I worked as the scrum master and software developer.<br><br>This project was completed in CSC4898 from September 2024 to June 2025.",
     "GitHubRepo": "https://github.com/Project-Seen",
     "MainImage": "P3Main.png",
     "DetailImages": ["P3Detail1.png","P3Detail2.png"]
   },
   "Project4": {
     "Title": "Web Crawler",
-    "Desc": "A program that calculates various measurements based on a graph built to represent the connection of websites. <br><br> Calculates the All Pairs Shortest Path, Longest Path, Shortest Path, and Closeness Centrality. <br><br>Worked as a software developer in a team of two.",
+    "Desc": "A program that calculates various measurements based on a graph built to represent the connection of websites. <br><br> Calculates the All Pairs Shortest Path, Longest Path, Shortest Path, and Closeness Centrality. <br><br>Worked as a software developer in a team of two.<br><br>This project was completed in CSC3430 from January 2025 to March 2025.",
     "GitHubRepo": "https://github.com/tracyymaii/Web-Crawler",
     "MainImage": "P4Main1.png",
     "DetailImages": []
